@@ -1,0 +1,3 @@
+# This project uses Yarn workspaces. Generate the full lockfile for your environment with:
+#   yarn install
+# A complete dependency lockfile is produced by Yarn based on package.json.
